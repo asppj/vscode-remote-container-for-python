@@ -6,6 +6,7 @@
 <!-- markdownlint-enable MD000 -->
 1. [Python3 remote container开发环境](https://github.com/asppj/vscode-remote-container-for-python.git)
 2. [Golang remote container开发环境](https://github.com/asppj/vscode-remote-docker-container-for-golang.git)
+3. [Node remote container开发环境](https://github.com/asppj/vscode-remote-docker-container-for-node.git)
 
 <!-- markdownlint-restore -->
 ## 强烈推荐
